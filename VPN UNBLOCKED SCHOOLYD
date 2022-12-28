@@ -36,7 +36,11 @@
             "{26102f43-33b9-465e-aea7-c991c72db106}"
           ],
           "ClientCertType": "None",
-          "TLSAuthContents": "-----BEGIN OpenVPN Static key V1-----\n6acef03f62675b4b1bbd03e53b187727\n423cea742242106cb2916a8a4c829756\n3d22c7e5cef430b1103c6f66eb1fc5b3\n75a672f158e2e2e936c3faa48b035a6d\ne17beaac23b5f03b10b868d53d03521d\n8ba115059da777a60cbfd7b2c9c57472\n78a15b8f6e68a3ef7fd583ec9f398c8b\nd4735dab40cbd1e3c62a822e97489186\nc30a0b48c7c38ea32ceb056d3fa5a710\ne10ccc7a0ddb363b08c3d2777a3395e1\n0c0b6080f56309192ab5aacd4b45f55d\na61fc77af39bd81a19218a79762c3386\n2df55785075f37d8c71dc8a42097ee43\n344739a0dd48d03025b0450cf1fb5e8c\naeb893d9a96d1f15519bb3c4dcb40ee3\n16672ea16c012664f8a9f11255518deb\n-----END OpenVPN Static key V1-----\n"
+          "TLSAuthContents": "-----BEGIN OpenVPN Static key V1-----\n6acef03f62675b4b1bbd03e53b187727\n423cea742242106cb2916a8a4c829756\n3d22c7e5cef430b1103c6f66eb1fc5b3\n75a672f158e2e2e936c3faa48b035a6d\ne17beaac23b5f03b10b868d53d03521d\n8ba115059da777a60cbfd7b2c9c57472\n78a15b8f6e68a3ef7fd583ec9f398c8b\nd4735dab40cbd1e3c62a822e97489186\nc30a0b48c7c38ea32ceb056d3fa5a710\ne10ccc7a0ddb363b08c3d2777a3395e1\n0c0b6080f56309192ab5aacd4b45f55d\na61fc77af39bd81a19218a79762c3386\n2df55785075f37d8c71dc8a42097ee43\n344739a0dd48d03025b0450cf1fb5e8c\naeb893d9a96d1f15519bb3c4dcb40ee3\n16672ea16c012664f8a9f11255518deb\n-----END OpenVPN Static key V1-----\n",
+
+"Username": "ih1M47aG67vpkrph",
+
+"Password": "lqhscAT04QLKPiK5sDtSTKaaIyQexkDW"
         }
       }
     }
